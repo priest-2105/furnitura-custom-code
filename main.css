@@ -30,9 +30,9 @@
 /* Default state of the "add-to-cart" container */
 .add-to-cart-container {
     transition-duration: 0.2s; 
-    transition-timing-function: ease-in-out; /* Sets timing function for transition */
-    visibility: hidden; /* Hides the container initially */
-    background-color: #3a3a3a9c; /* Sets a semi-transparent dark background */
+    transition-timing-function: ease-in-out; 
+    visibility: hidden; 
+    background-color: #3a3a3a9c;
     position: absolute; /* Positions the container within the parent */
     top: 0%; /* Aligns it to the top of the parent */
     text-align: center; /* Centers text horizontally */
