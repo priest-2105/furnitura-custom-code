@@ -33,24 +33,24 @@
     transition-timing-function: ease-in-out; 
     visibility: hidden; 
     background-color: #3a3a3a9c;
-    position: absolute; /* Positions the container within the parent */
-    top: 0%; /* Aligns it to the top of the parent */
-    text-align: center; /* Centers text horizontally */
-    justify-content: center; /* Centers content horizontally when using Flexbox */
+    position: absolute; 
+    top: 0%; 
+    text-align: center; 
+    justify-content: center; 
 }
 
 /* Button styles for a specific class */
 .pf-cmIldm {
-    text-decoration: none; /* Removes underline from links */
-    border: 1px solid #283618 !important; /* Adds a solid border in dark green */
-    padding: 10px 30px 40px 30px; /* Adds padding inside the button */
-    color: #283618; /* Sets text color */
-    font-size: 16px; /* Defines font size */
-    font-weight: 600; /* Makes the text slightly bold */
+    text-decoration: none; 
+    border: 1px solid #283618 ; 
+    padding: 10px 30px 40px 30px; 
+    color: #283618; 
+    font-size: 16px; 
+    font-weight: 600; 
 }
 
 /* Hover effect for the button */
 .pf-cmIldm:hover {
-    background-color: #283618; /* Changes the background color on hover */
-    color: #fff; /* Changes text color to white on hover */
+    background-color: #283618;
+    color: #fff; 
 }
