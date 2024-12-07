@@ -1,0 +1,54 @@
+/* beautiful rooms pagination button style  */
+.bUKxlt .pagination-style-2 button {
+    border: 2px solid #9AA969;
+    position: relative;
+  }
+  
+  .bUKxlt .pagination-style-2 button:before,
+  .bcwUIO .pagination-style-2 button:before {
+    background-color: #9AA969;
+    padding: 0px;
+  }
+  
+  #field-93a19208::placeholder {
+    color: transparent;
+  }
+  
+  
+  .home-product-list-item {
+    position: relative;
+  }
+  
+  .home-product-list-item:hover .add-to-cart-container {
+    visibility: visible;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+  }
+  
+  .add-to-cart-container {
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+    visibility: hidden;
+    background-color: #3a3a3a9c;
+    position: absolute;
+    top: 0%;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  
+  .pf-cmIldm {
+    text-decoration: none;
+    border: 1px solid #283618 !important;
+    padding: 10px 30px 40px 30px;
+    color: #283618;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  
+  
+  .pf-cmIldm:hover {
+    background-color: #283618;
+    color: #fff;
+  }
